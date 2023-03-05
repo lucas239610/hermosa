@@ -1,0 +1,15 @@
+
+
+img{
+    width: 20%;
+    height: 20%;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+.container li{
+    list-style: none;
+}
